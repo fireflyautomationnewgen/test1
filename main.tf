@@ -16,3 +16,5 @@ resource "null_resource" "test" {
 }
 
 # change for test 1
+
+New line added automatically 🚀 2
