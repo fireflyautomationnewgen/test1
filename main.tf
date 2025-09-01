@@ -14,3 +14,5 @@ resource "null_resource" "test" {
     command = "echo Running mock Terraform script with value: ${var.test_variable}"
   }
 }
+
+# change for test 1
