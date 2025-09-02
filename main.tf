@@ -20,3 +20,4 @@ resource "null_resource" "test" {
 New line added automatically 🚀 2
 this is an automatic newline
 \nthis is an automatic newline 2\n
+this is an automatic newline 3
