@@ -20,3 +20,5 @@ resource "null_resource" "test" {
 # this is an automatic newline 20250908160000
 
 # this is an automatic newline 20250908170000
+
+# this is an automatic newline 20250908170000
